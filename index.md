@@ -13,5 +13,8 @@ hero:
     - theme: alt
       text: Blog
       link: /api-examples
-
+    - theme: alt
+      text: About me
+      link: /about-me
+---
 
