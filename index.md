@@ -3,18 +3,29 @@
 layout: home
 
 hero:
-  name: "Portfolio"
-  text: "Hi! My name is Juan Valera, I'm a software engineer and this is my portfolio."
-  tagline: "Software Engineer"
+  name: "JuanValeraDev \n\nOpen for work"
+  text: "\nYour vision, my mission. Let's code the future together."
+  tagline: "Software Developer"
   actions:
     - theme: brand
+      text: Contact me
+      link: https://www.linkedin.com/in/juan-valera-reales/
+    - theme: alt
       text: Projects
-      link: /markdown-examples
-    - theme: alt
-      text: Blog
-      link: /api-examples
-    - theme: alt
-      text: About me
-      link: /about-me
----
+      link: /projects
 
+
+features:
+  - title: Technical skills
+    icon: 🛠️
+    details: My favourite stacks.
+    link: /technical-skills
+  - icon: 🎨
+    title: About me
+    details: Who am I?
+    link: /about-me
+  - icon: 🚀
+    title: Resume
+    details: Watch and download my resume here.
+    link: /resume
+---
