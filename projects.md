@@ -1,5 +1,8 @@
 # Projects
 
+//TODO: Añadir proyectos de android, tanto jetpack compose como android views y añadir algún que otro proyecto de las
+prácticas.
+
 Here you can find some of the projects I have worked on.
 
 ## <a href="https://github.com/JuanValeraDev/InfoCountries" target="_blank">Infocountries</a>
@@ -27,7 +30,6 @@ This is the version of the previous project for mobile devices. It is made with 
 
 This is a little project I did to practice HTML, CSS, Javascript and responsive design. It is a very simple page that
 offers pieces of humor podcasts.
-
 
 ![podhouse_5.png](assets/podhouse_5.png){ width=350 height=auto }
 
