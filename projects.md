@@ -1,8 +1,5 @@
 # Projects
 
-//TODO: Añadir proyectos de android, tanto jetpack compose como android views y añadir algún que otro proyecto de las
-prácticas.
-
 Here you can find some of the projects I have worked on.
 
 ## <a href="https://github.com/JuanValeraDev/InfoCountries" target="_blank">Infocountries</a>
@@ -34,6 +31,8 @@ offers pieces of humor podcasts.
 ![podhouse_5.png](assets/podhouse_5.png){ width=350 height=auto }
 
 ![podhouse_4.png](assets/podhouse_4.png){ width=auto height=250 }
+
+
 
 
 
