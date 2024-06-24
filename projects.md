@@ -32,6 +32,24 @@ offers pieces of humor podcasts.
 
 ![podhouse_4.png](assets/podhouse_4.png){ width=auto height=250 }
 
+## EduManage
+
+EduManage is an Android application developed with Jetpack Compose and Kotlin, designed to manage
+departments, classrooms, and incidents. The application leverages the power of the MVVM architecture, state management,
+and navigation components.
+It incorporates both local and cloud-based storage solutions, utilizing SQLite with Room library for local data
+persistence and Firebase for cloud storage. The application also features preference storage for personalized user
+settings. Advanced features include result filtering, index creation in databases, and the use of design patterns such
+as Singleton and Dependency Injection.
+
+![edu_1.png](assets/edu1.png){ width=300 }
+![edu_3.png](assets/edu3.png){ width=300 }
+![edu_4.png](assets/edu4.png){ width=300 }
+![edu_5.png](assets/edu5.png){ width=300 }
+![edu_6.png](assets/edu6.png){ width=auto height=200 }
+![edu_7.png](assets/edu7.png){ width=auto height=200 }
+
+
 
 
 
