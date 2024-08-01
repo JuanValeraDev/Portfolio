@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "JuanValeraDev \n\nOpen for work"
-  text: "\nDream big \ncode bigger."
+  text: "\nDream big \nCode bigger"
   tagline: "React Developer"
   actions:
     - theme: brand
