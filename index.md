@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "THIS IS JUST A TEST! \n JuanValeraDev \n\nOpen for work"
+  name: "JuanValeraDev \n\nOpen for work"
   text: "\nDream big \ncode bigger."
   tagline: "React Developer"
   actions:
