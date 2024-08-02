@@ -5,6 +5,7 @@ export default defineConfig({
   title: "JuanValeraDev",
   description: "Hi! My name is Juan Valera",
   base: '/',
+  outDir: '.vitepress/dist',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
