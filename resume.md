@@ -1,5 +1,5 @@
-# Here you can see and download my resume.
+# Here you can see my resume.
 
-<a href="/assets/CV_JuanValera.pdf" target="_blank">Open PDF</a>
+[Open CV](/assets/CV_JuanValera.jpg)
 
 ![CV_JuanValera.jpg](/assets/CV_JuanValera.jpg)
