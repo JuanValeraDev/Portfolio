@@ -1,0 +1,91 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns with equal width */
+    grid-gap: 30px; /* space between items */
+}
+
+.grid-item {
+    padding: 20px;
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.grid-item:hover {
+    transform: translateY(-10px);
+}
+
+.title {
+    font-size: 1.7em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Colores de fondo alternados para las tarjetas */
+.grid-item:nth-child(odd) {
+    background-color: #e3f2fd;
+}
+
+.grid-item:nth-child(even) {
+    background-color: #ffebee;
+}
+
+.grid-item:nth-child(3n+1) {
+    background-color: #e8f5e9;
+}
+
+.text {
+    display: block;
+    margin: 5px 0;
+}
+
+/* Modo claro */
+@media (prefers-color-scheme: light) {
+    .grid-item {
+        background-color: #fff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .grid-item:hover {
+        box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    .title {
+        color: #333;
+    }
+
+    .text {
+        color: #555;
+    }
+}
+
+/* Modo oscuro */
+@media (prefers-color-scheme: dark) {
+    .grid-item {
+        background-color: #1e1e1e;
+        box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+    }
+
+    .grid-item:hover {
+        box-shadow: 0 12px 16px rgba(255, 255, 255, 0.2);
+    }
+
+    .title {
+        color: #3e001d;
+    }
+
+    .text {
+        color: #4c0d46;
+    }
+
+    .grid-item:nth-child(odd) {
+        background-color: rgba(255, 242, 216, 0.51);
+    }
+
+    .grid-item:nth-child(even) {
+        background-color: rgba(234, 215, 187, 0.78);
+    }
+
+    .grid-item:nth-child(3n+1) {
+        background-color: rgba(188, 163, 127, 0.8);
+    }
+}

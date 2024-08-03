@@ -13,83 +13,56 @@ on and the skills I bring to the table.
 
 <br>
 
-# Skills
+# Stacks
 
-### React
 
-::: info Languages
-Javascript
-:::
-::: tip Frameworks
-React, NextJS, Express, Bootstrap, Material-UI
-:::
-::: warning Tools
-NPM, Node.js, Bun.js, MongoDB, WebStorm
-:::
-
----
-
-### React Native
-
-::: info Languages
-Typescript
-:::
-::: tip Frameworks
-React Native, Expo, Ionic Capacitor
-:::
-::: warning Tools
-Appwrite, Firebase
-:::
-
----
-
-### Android
-
-::: info Languages
-Kotlin, Java
-:::
-::: tip Frameworks
-Jetpack Compose, View Binding
-:::
-::: warning Tools
-Gradle, Android SDK, SQLite, Android Studio
-:::
-
----
-
-### Spring
-
-::: info Languages
-Java
-:::
-::: tip Frameworks
-Spring, Spring Boot
-:::
-::: warning Tools
-Maven, MySQL, Oracle SQL, Dagger Engine, IntelliJ IDEA
-:::
-
----
-
-### AI
-
-::: info Languages
-Python
-:::
-::: tip Frameworks
-Pandas
-:::
-::: warning Tools
-Langchain, Llamafiles, Google OR Tools, MongoDB Atlas Vector Search, PostgreSQL, PyCharm
-:::
-
----
-
-### Other technologies
-
-::: tip Other
-Docker, Git, GitHub, VitePress
-:::
+<div class="grid">
+    <div class="grid-item">
+        <div class="title"><b>React</b></div>
+        <span class="text"><b>Languages</b>: JavaScript, TypeScript</span>
+        <br>
+        <span class="text"><b>Frameworks/Libaries</b>: NextJS, Express, Bootstrap, Material-UI</span>
+        <br>
+        <span class="text"><b>Tools</b>: NPM, Node.js, Bun.js, MongoDB, WebStorm</span>
+    </div>
+    <div class="grid-item">
+        <div class="title"><b>React Native</b></div>
+        <span class="text"><b>Languages</b>: JavaScript, TypeScript</span>
+        <br>
+        <span class="text"><b>Frameworks/Libraries</b>: Expo, Ionic Capacitor</span>
+        <br>
+        <span class="text"><b>Tools</b>: Appwrite, Firebase</span>
+    </div> 
+    <div class="grid-item">
+        <div class="title"><b>Android</b></div>
+        <span class="text"><b>Languages</b>: Kotlin, Java</span>
+        <br>
+        <span class="text"><b>Frameworks/Libraries</b>: Jetpack Compose, View Binding</span>
+        <br>
+        <span class="text"><b>Tools</b>: Gradle, Android SDK, SQLite, Android Studio</span>
+    </div>
+    <div class="grid-item">
+        <div class="title"><b>Spring</b></div>
+        <span class="text"><b>Languages</b>: Java</span>
+        <br>
+        <span class="text"><b>Frameworks/Libraries</b>: Spring Boot</span>
+        <br>
+        <span class="text"><b>Tools</b>: Maven, MySQL, Oracle SQL, Dagger Engine, IntelliJ IDEA</span>
+    </div>
+    <div class="grid-item">
+        <div class="title"><b>AI</b></div>
+        <span class="text"><b>Languages</b>: Python</span>
+        <br>
+        <span class="text"><b>Frameworks/Libraries</b>: Pandas</span>
+        <br>
+        <span class="text"><b>Tools</b>: Langchain, Llamafiles, Google OR Tools, MongoDB Atlas Vector Search, PostgreSQL, PyCharm
+    </span>
+    </div>
+    <div class="grid-item">
+        <div class="title"><b>Other technologies</b></div>
+        <span class="text">Docker, Git, GitHub, VitePress</span>
+    </div> 
+</div>
 
 ---
 
@@ -99,7 +72,7 @@ export default {
         if (wantToWorkWithMe()) {
             return "Let's connect and create something amazing!"; // [!code focus]
         } else {
-            return "Thanks for stopping by! I'll be here if you need me."; 
+            return "Thanks for stopping by! I'll be here if you need me.";
         }
     }
 }

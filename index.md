@@ -33,3 +33,4 @@ Thank you for visiting my portfolio. Let's connect!
 <span style="font-size: x-large;">
     <a href="https://www.linkedin.com/in/juan-valera-reales/" target=”_blank”>LinkedIn</a>
 </span>
+
