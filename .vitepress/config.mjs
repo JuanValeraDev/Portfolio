@@ -9,29 +9,28 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      { text: 'About me', link: '/about-me' },
       { text: 'Projects', link: '/projects' },
-      { text: 'About me', link: '/about-me' }
+      { text: 'Resume', link: '/resume' },
     ],
 
-    sidebar: [
-      {
-        text: 'Sections',
-        items: [
-          { text: 'Technical Skills', link: '/technical-skills' },
-          { text: 'Projects', link: '/projects' },
-          { text: 'About me', link: '/about-me' },
-          { text: 'Resume', link: '/resume' }
-        ]
-      }
-    ],
+    // sidebar: [
+    //   {
+    //     text: 'Sections',
+    //     items: [
+    //       { text: 'About me', link: '/about-me' },
+    //       { text: 'Projects', link: '/projects' },
+    //       { text: 'Resume', link: '/resume' }
+    //     ]
+    //   }
+    // ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/JuanValeraDev' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/juan-valera-reales/' },
     ],
     footer: {
-      message: 'Made by JuanValeraDev',
+      message: 'Made with ❤️ by JuanValeraDev',
     }
   }
 })
