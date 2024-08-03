@@ -3,33 +3,33 @@
 layout: home
 
 hero:
-  name: "JuanValeraDev \n\nOpen for work"
-  text: "\nDream big \nCode bigger"
+  name: "Dream big\nCode bigger"
   tagline: "React Developer"
   actions:
     - theme: brand
-      text: Contact me
-      link: https://www.linkedin.com/in/juan-valera-reales/
+      text: About me
+      link: /about-me
     - theme: alt
       text: Projects
       link: /projects
-
-features:
-  - title: Technical skills
-    icon: 🛠️
-    details: My favourite stacks.
-    link: /technical-skills
-  - icon: 🎨
-    title: About me
-    details: Who am I?
-    link: /about-me
-  - icon: 🚀
-    title: Resume
-    details: Watch and download my resume here.
-    link: /resume
+    - theme: alt
+      text: Resume
+      link: /resume
+  image:
+    src: /assets/portrait.png
+    alt: JuanValeraDev
 ---
 
----
-<div style="display: flex; justify-content: center;">
-  <img src="/assets/berlin_auditory.jpg" alt="JuanValeraDev" style="width: auto; height: auto;">
-</div>
+### Who am I?
+
+Hi, I'm Juan, a passionate software developer with a focus on React development. I love creating innovative solutions and collaborating with teams. Over the years, I've gained valuable experience working with diverse groups, enhancing both my technical and interpersonal skills.
+
+I thrive on the challenges of programming and enjoy using creativity to solve complex problems. What excites me most is the collaborative aspect of software development, where teamwork and communication lead to the best outcomes.
+
+For me, software development is the perfect mix of technical skill and human connection. I'm always eager to learn new technologies and methodologies, and I look forward to connecting with others who share my passion.
+
+Thank you for visiting my portfolio. Let's connect!
+
+<span style="font-size: x-large;">
+    <a href="https://www.linkedin.com/in/juan-valera-reales/" target=”_blank”>LinkedIn</a>
+</span>
