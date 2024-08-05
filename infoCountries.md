@@ -7,7 +7,7 @@ comparation between two countries and play a quiz about countries.
 This project is made with React, Bootstrap, Express and API consumption, like chatgpt 3.5 turbo, restcountries or
 pexels. It is located on <a href="https://infocountrieswebservice.onrender.com/" target="_blank">Render</a>.
 
-Check it out on <a href="https://github.com/JuanValeraDev/InfoCountries" target="_blank">GitHub</a>!
+Check it out in <a href="https://github.com/JuanValeraDev/InfoCountries" target="_blank">GitHub</a>!
 
 <div class="grid">
     <div >
@@ -28,7 +28,6 @@ Check it out on <a href="https://github.com/JuanValeraDev/InfoCountries" target=
     <div >
         <img src="/assets/InfoCountries_6.png" alt="InfoCountries">
     </div>
-   
 </div>
 
 
