@@ -16,7 +16,7 @@ hero:
       text: Resume
       link: /resume
   image:
-    src: /assets/portrait.png
+    src: /portrait.png
     alt: JuanValeraDev
 ---
 
