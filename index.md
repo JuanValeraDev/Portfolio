@@ -22,11 +22,15 @@ hero:
 
 ### Who am I?
 
-Hi, I'm Juan, a passionate software developer with a focus on React development. I love creating innovative solutions and collaborating with teams. Over the years, I've gained valuable experience working with diverse groups, enhancing both my technical and interpersonal skills.
+Hi, I'm Juan, a passionate full stack software developer. My focus is on creating web apps with React, Next.js and
+Vercel. I love creating innovative solutions and collaborating with teams. Over the years, I've gained valuable
+experience working with diverse groups, enhancing both my technical and interpersonal skills.
 
-I thrive on the challenges of programming and enjoy using creativity to solve complex problems. What excites me most is the collaborative aspect of software development, where teamwork and communication lead to the best outcomes.
+I thrive on the challenges of programming and enjoy using creativity to solve complex problems. What excites me most is
+the collaborative aspect of software development, where teamwork and communication lead to the best outcomes.
 
-For me, software development is the perfect mix of technical skill and human connection. I'm always eager to learn new technologies and methodologies, and I look forward to connecting with others who share my passion.
+For me, software development is the perfect mix of technical skill and human connection. I'm always eager to learn new
+technologies and methodologies, and I look forward to connecting with others who share my passion.
 
 Thank you for visiting my portfolio. Let's connect!
 
